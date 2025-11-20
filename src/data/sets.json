@@ -25,6 +25,266 @@
       {
         "word": "Cultural Traits",
         "definition": "The building blocks of culture; Visible and invisible attributes that combine to make up a group's culture."
+      },
+      {
+        "word": "Artifacts",
+        "definition": "Tangible objects created by a culture."
+      },
+      {
+        "word": "Sociofacts",
+        "definition": "The ways in which a culture behaves and organizes institutions."
+      },
+      {
+        "word": "Mentifacts",
+        "definition": "The ideas, beliefs, values, and knowledge of a culture."
+      },
+      {
+        "word": "Cultural Norms",
+        "definition": "Agreed upon culture practices or standards that guide the behavior of a culture."
+      },
+      {
+        "word": "Cultural Taboos",
+        "definition": "Behaviors heavily discouraged by a culture."
+      },
+      {
+        "word": "Ethnocentrism",
+        "definition": "The belief that one's own culture or ethnic group is surperior to others; judging other groups through the lens of one's own culture."
+      },
+      {
+        "word": "Cultural Relativism",
+        "definition": "The principle that an individual human's beliefs and actions should be understood by others in terms of that individual's own culture."
+      },
+      {
+        "word": "Cultural Hearth",
+        "definition": "An area where civilizations began that radiated it's customs, innovations, and ideologies and transformed the world."
+      },
+      {
+        "word": "Environmental Determinism",
+        "definition": "The belief that the physical environment, especially things like climate and terrain, actively shapes culture."
+      },
+      {
+        "word": "Possibilism",
+        "definition": "The belief that environmental conditions may impact culture in some ways, but people are the primary architects of culture."
+      },
+      {
+        "word": "Cultural Realm",
+        "definition": "A large segment of the Earth with commonality in cultural characteristics."
+      },
+      {
+        "word": "Folk Culture",
+        "definition": "Culture that is traditionally practiced primarily by small, homogenous groups living in isolated rural areas."
+      },
+      {
+        "word": "Popular Culture",
+        "definition": "Culture found in large, heterogeneous societies that share certain habits despite differences in other personal characteristics."
+      },
+      {
+        "word": "Diffusion",
+        "definition": "The process by which an innovation or idea spreads from one place to another over time."
+      },
+      {
+        "word": "Innovator",
+        "definition": "A person who is responsible for creating the idea or innovation and initiating the diffusion process."
+      },
+      {
+        "word": "Adopter",
+        "definition": "A person who accepts or recieves the idea or innovation."
+      },
+      {
+        "word": "Hearth",
+        "definition": "The place where an idea/innovation originates."
+      },
+      {
+        "word": "Expansion Diffusion",
+        "definition": "A type of diffusion where an idea/innovation develops in a hearth and remains strong there, while also spreading outwards."
+      },
+      {
+        "word": "Contagious Diffusion",
+        "definition": "Diffusion where one person spreads an idea/innovation to multiple people and then those people spread it to multiple people, and so on, and so forth."
+      },
+      {
+        "word": "Hiearchical Diffusion",
+        "definition": "The spread of an idea/innovation from one key person or nod of authority/power to other persons/places with less power/authority(Can work in reverse)."
+      },
+      {
+        "word": "Stiumulus Diffusion",
+        "definition": "When something spreads but is changed by the people who adapt the idea/innovation."
+      },
+      {
+        "word": "Relocation Diffusion",
+        "definition": "The spread of an idea/innovation through the physical movement of people."
+      },
+      {
+        "word": "Distance Decay",
+        "definition": "The idea that the interaction between two places decreases as the distance between them increases."
+      },
+      {
+        "word": "Time-Space Compression",
+        "definition": "The reduction of the time it takes to diffuse something to a distant place, as a result of improved communication and transportation technologies."
+      },
+      {
+        "word": "Cultural Convergence",
+        "definition": "When two cultures become more similar the more that they interact."
+      },
+      {
+        "word": "Cultural Divergence",
+        "definition": "Cultures become less alike over itme due to physical and cultural barriers."
+      },
+      {
+        "word": "Cultural Landscape",
+        "definition": "The structures within the physical landscape caused by human activities."
+      },
+      {
+        "word": "Ethnicity",
+        "definition": "A group of people that has a common ancestry or culture."
+      },
+      {
+        "word": "Ethnic Enclave",
+        "definition": "Relatively small, ethnically homogenous areas situated within a larger and more diverse cultural context."
+      },
+      {
+        "word": "Gender Roles",
+        "definition": "The role or behavior learned by a person as appropriate to their gender, determined by prevailing cultural norms."
+      },
+      {
+        "word": "Gendered Spaces",
+        "definition": "Areas in which particular genders and particular types of gender expression, are considered welcome or appropriate, and other types are unwelcome or inappropriate."
+      },
+      {
+        "word": "Indeigenous Communities",
+        "definition": "An area set aside by the government for the exclusive use of indigenous peoples."
+      },
+      {
+        "word": "Land Use",
+        "definition": "The way a society treats its land can tell us a lot about how they view and value nature."
+      },
+      {
+        "word": "Sequent Occupancy",
+        "definition": "The notion that succesive societies leave their cultural imprints on a place, each contributing to the cumulative cultural landscape."
+      },
+      {
+        "word": "Charter Group",
+        "definition": "The first group to establish cultural and religious customs in a place."
+      },
+      {
+        "word": "Diaspora",
+        "definition": "When people of one culture or religious group are dispersed to various locations."
+      },
+      {
+        "word": "Missionary",
+        "definition": "A person sent on a religious mission, usually to convert people to their faith."
+      },
+      {
+        "word": "Animism",
+        "definition": "The belief commonly found in Ethnic African religions that natural objects and events have a spirit."
+      },
+      {
+        "word": "Secularism",
+        "definition": "The separation of religion from civil affairs."
+      },
+      {
+        "word": "Theocracy",
+        "definition": "A form of government in which a deity of some kind is viewed as the ultimate authority."
+      },
+      {
+        "word": "Fundamentalism",
+        "definition": "A type of religious movement characterized by strict conformity to a religious text."
+      },
+      {
+        "word": "Linguists",
+        "definition": "People who study languages."
+      },
+      {
+        "word": "Language Family",
+        "definition": "A collection of languages related through a common ancestry that existed long before written history."
+      },
+      {
+        "word": "Language Branch",
+        "definition": "A collection of languages within a family, related through a common ancestral language that existed several thousand years ago."
+      },
+      {
+        "word": "Language Group",
+        "definition": "A collection of languages within a branch that share a common origin in the relatively recent past and display many similarities in grammar and vocabulary."
+      },
+      {
+        "word": "Official Language",
+        "definition": "A language dsignated by a country as the one used by the government for laws, reports, and public objects."
+      },
+      {
+        "word": "Dialect",
+        "definition": "A regional variation of a language distinguished by unique vocabulary, pronunciation, and spelling."
+      },
+      {
+        "word": "Received Pronunciation",
+        "definition": "The standard form of British English pronunciation."
+      },
+      {
+        "word": "Isogloss",
+        "definition": "A boundary on a dialect map between linguistic regions."
+      },
+      {
+        "word": "Pidgin Language",
+        "definition": "A simplified form of a language that allows speakers of two different languages to communicate."
+      },
+      {
+        "word": "Creole Language",
+        "definition": "A language that results from the mixing of a colonizer's language with the indigenous language of the people being dominated."
+      },
+      {
+        "word": "Lingua Franca",
+        "definition": "A language of international communication."
+      },
+      {
+        "word": "Isolated Language",
+        "definition": "A language unrelated to any other and therefore not attached to any language family."
+      },
+      {
+        "word": "Endangered Language",
+        "definition": "A language in danger of becoming extinct."
+      },
+      {
+        "word": "Extinct Language",
+        "definition": "A language that is no longer spoken or used in daily activities by anyone in the world."
+      },
+      {
+        "word": "Revived Language",
+        "definition": "A language that was once extinct bus has come back into daily use."
+      },
+      {
+        "word": "Acculturation",
+        "definition": "The adoption of cultural traits, such as language, by one group under the influence of another, while sitll maintaining elements of their own culture."
+      },
+      {
+        "word": "Assimilation",
+        "definition": "The process of absorbing one cultural group into another. When this happens, one group can no longer be distinguished from another more dominant culture group."
+      },
+      {
+        "word": "Syncretism",
+        "definition": "When traits from two distinct cultures fuse to form a new cultural trait."
+      },
+      {
+        "word": "Multiculturalism",
+        "definition": "The coexistence of several cultures in one society, with the ideal of all cultures being valued and worthy of practice."
+      },
+      {
+        "word": "Nativism",
+        "definition": "Favoring those born in a country over immigrants."
+      },
+      {
+        "word": "Centripetal Force",
+        "definition": "A force that unites people together, leading to the strengthening of a state."
+      },
+      {
+        "word": "Centrifugal Force",
+        "definition": "A force that divides people or prevents them from coming together, weakening the state."
+      },
+      {
+        "word": "Ethnic Cleansing",
+        "definition": "The forced removal of a major ethnic group from a territory."
+      },
+      {
+        "word": "Genocide",
+        "definition": "The deliberate killing of a large number of people from a particular cultural or ethnic group, with the aim of destroying that group."
       }
     ]
   }
