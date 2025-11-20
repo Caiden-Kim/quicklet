@@ -17,6 +17,10 @@ body {
   user-select: none;
 }
 
+.page {
+  padding-top: 100px;
+}
+
 .page-title {
   display: flex;
   align-items: center;

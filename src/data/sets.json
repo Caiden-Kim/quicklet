@@ -2,7 +2,13 @@
   {
     "id": 1,
     "title": "La Moda - Español 3 (Unit 2)",
-    "description": "Unit 2 vocabulary and concepts for Sra Rodriguez's class."
+    "description": "Unit 2 vocabulary and concepts for Sra Rodriguez's class.",
+    "vocab": [
+      { "word": "camisa", "definition": "shirt" },
+      { "word": "zapatos", "definition": "shoes" },
+      { "word": "pantalones", "definition": "pants" },
+      { "word": "sombrero", "definition": "hat" }
+    ]
   },
   {
     "id": 2,
