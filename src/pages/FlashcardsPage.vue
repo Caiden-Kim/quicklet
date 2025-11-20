@@ -101,7 +101,7 @@ export default {
   color: #f9f5ec;
   width: 70vw;
   height: 60vh;
-
+  overflow-wrap: anywhere;
   align-content: center;
 }
 

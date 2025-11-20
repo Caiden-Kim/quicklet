@@ -6,11 +6,26 @@
     "vocab": [
       {
         "word": "camisa",
-        "definition": "shirteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        "definition": "shirt"
       },
       { "word": "zapatos", "definition": "shoes" },
       { "word": "pantalones", "definition": "pants" },
       { "word": "sombrero", "definition": "hat" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Culture - AP Human Geo (Unit 3)",
+    "description": "Unit 3 vocabulary and concepts for Mr. Lewis's class.",
+    "vocab": [
+      {
+        "word": "Culture",
+        "definition": "The material and immaterial ways of life of a particular group of people."
+      },
+      {
+        "word": "Cultural Traits",
+        "definition": "The building blocks of culture; Visible and invisible attributes that combine to make up a group's culture."
+      }
     ]
   }
 ]
