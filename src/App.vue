@@ -11,7 +11,16 @@
     <h2 class="heading">Choose a Set:</h2>
 
     <div class="sets">
-      <SetCard v-for="(s, i) in sets" :key="i" :set="s" @select="openSet" />
+      <SetCard v-for="(s, i) in sets" :key="i" :set="s" @select="showMenu" />
+    </div>
+
+    <div v-if="menuVisible" class="menu-overlay" @click="closeMenu">
+      <div class="menu" @click.stop>
+        <h3>{{ selectedSet.title }}</h3>
+        <button @click="goToFlashcards">Flashcards</button>
+        <button @click="goToQuiz">Quiz</button>
+        <button @click="closeMenu">Cancel</button>
+      </div>
     </div>
   </div>
 </template>
@@ -27,14 +36,32 @@ export default {
   data() {
     return {
       sets,
+      menuVisible: false,
+      selectedSet: null,
     };
   },
 
   methods: {
-    openSet(set) {
-      console.log("User selected:", set.title);
-      // Example: route to a flashcard page
-      // this.$router.push(`/set/${set.id}`)
+    showMenu(set) {
+      this.selectedSet = set;
+      this.menuVisible = true;
+    },
+
+    closeMenu() {
+      this.menuVisible = false;
+      this.selectedSet = null;
+    },
+
+    goToFlashcards() {
+      console.log("Go to Flashcards for:", this.selectedSet.title);
+      this.closeMenu();
+      // example: this.$router.push(`/flashcards/${this.selectedSet.id}`)
+    },
+
+    goToQuiz() {
+      console.log("Go to Quiz for:", this.selectedSet.title);
+      this.closeMenu();
+      // example: this.$router.push(`/quiz/${this.selectedSet.id}`)
     },
   },
 };

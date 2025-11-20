@@ -110,3 +110,40 @@ body {
   font-family: "Coolvetica";
   src: url("@/assets/Fonts/Coolvetica.otf");
 }
+
+.menu-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu {
+  background-color: #373c44;
+  padding: 2em;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  text-align: center;
+}
+
+.menu button {
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: none;
+  background-color: #52596e;
+  color: #f9f5ec;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.menu button:hover {
+  background-color: #2b3036;
+}
